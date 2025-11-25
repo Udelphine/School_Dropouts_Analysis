@@ -41,22 +41,32 @@ Data structures used and purpose:
 <img width="826" height="360" alt="image" src="https://github.com/user-attachments/assets/6aad842d-a57c-479f-801b-a131e6d40110" />
 
 ### inserted data in the table
-![inserted table data ](screenshots/insertdata.png)
+
+<img width="1528" height="848" alt="image" src="https://github.com/user-attachments/assets/4e46fc3a-8d28-4ce9-bcd3-e71ff2b14e4e" />
+
 
 ### verified the table data
 ![verified table data ](screenshots/verifydata.png)
 
 ### dropped per district 
-![verified table data ](screenshots/dropperdistrict.png)
+
+<img width="565" height="451" alt="image" src="https://github.com/user-attachments/assets/255a70ee-b66c-43cc-9274-96bc930fd929" />
+
 
 ### attendance of student
-![verified table data ](screenshots/attendance.png)
 
-### intervation of teachers
-![verified table data ](screenshots/interventions.png)
+<img width="545" height="301" alt="image" src="https://github.com/user-attachments/assets/c088f9c4-aad0-4d09-a677-c48d4889fdb7" />
+
+
+### intervention of teachers
+
+<img width="900" height="477" alt="image" src="https://github.com/user-attachments/assets/20db7127-e06d-4c3e-b3e7-9b901404ea20" />
+
 
 ### nested and GOTO example
-![verified table data ](screenshots/nested%20and%20goto.png)
+
+<img width="892" height="591" alt="image" src="https://github.com/user-attachments/assets/9c796609-371a-4012-92b3-be8814b76ee8" />
+
 
 ## Conclusion
 
