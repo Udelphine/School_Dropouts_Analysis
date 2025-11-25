@@ -1,8 +1,8 @@
 # School Dropouts in Rwanda — PL/SQL Assignment
 **PL/SQL Collections, Records, and GOTO Statements**
 
-Student Name: Uwase Tracy  
-Student ID: 27105 
+Student Name: Uwineza Delphine 
+Student ID: 27897
 
 ## Title
 Monitoring and Analyzing School Dropouts in Rwanda
