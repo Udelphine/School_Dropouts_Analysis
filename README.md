@@ -37,7 +37,8 @@ Data structures used and purpose:
 
 
 ### Created tables
-![Created Tables ](screenshots/tablecreate.png)
+
+<img width="826" height="360" alt="image" src="https://github.com/user-attachments/assets/6aad842d-a57c-479f-801b-a131e6d40110" />
 
 ### inserted data in the table
 ![inserted table data ](screenshots/insertdata.png)
